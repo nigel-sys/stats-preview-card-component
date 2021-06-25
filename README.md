@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/stats-preview-card-component-txmATU6PR
 - Live Site URL: https://nigel-sys.github.io/stats-preview-card-component/
 
 ### Built with
